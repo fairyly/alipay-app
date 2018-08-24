@@ -23,3 +23,8 @@
 
 ## 参考
 - web: https://docs.alipay.com/mini/introduce
+- 使用 webpack, babel, scss 开发的微信/支付宝小程序项目脚手架
+  - https://github.com/cantonjs/wxapp-boilerplate
+
+- 微信小程序转支付宝小程序命令行工具
+  - https://github.com/aOrz/wxmp2antmp
