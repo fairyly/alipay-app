@@ -13,6 +13,13 @@
 - 下载蚂蚁开发者工具：https://docs.alipay.com/mini/ide/download
 - 
 
+## 文件
+
+- .acss
+- .axml
+- .js
+- .json
+
 
 ## 参考
 - web: https://docs.alipay.com/mini/introduce
