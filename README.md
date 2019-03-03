@@ -30,3 +30,6 @@
 
 - 微信小程序转支付宝小程序命令行工具
   - https://github.com/aOrz/wxmp2antmp
+
+- [支付宝小程序组件库: mini-antui](https://github.com/ant-mini-program/mini-antui)
+- [支付宝小程序 html 解析库： mini-html-parser](https://github.com/ant-mini-program/mini-html-parser)
